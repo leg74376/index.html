@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html public "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+    <HEAD>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-You can use the [editor on GitHub](https://github.com/leg74376/index.html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+        <TITLE>Kobe Bryant: A Laker Legend</TITLE>
+    <style type="text/css">
+p {
+    text-indent: 50px;
+}
+    
+    </style>
+    </HEAD>
+    
+    <body style="background-color: gold;">
+    <h1 style="text-align:center;">Kobe Bryant: A Laker Legend</h1>
+    <p style="font-family:courier;">Kobe Bean Bryant was drafted out of Lower Merion High School in the 1996 National Basketball Association (NBA) Draft as the 13th pick in the first round by the Charlotte Hornets. The Hornets then traded Bryant to the Los Angeles Lakers, where he would spend the remainder of his 20 year career.</p>
+    
+    <p style="font-family:courier;">Bryant started off his career by winning the 1997 Slam Dunk Contest, becoming the youngest player to ever win it. At just 18 years old, Bryant was already accomplishing things that had never been done before, and will never be done again. <br>In 1998, Bryant was honored as an NBA All-Star starter, becoming the youngest person to ever achieve that status. </p>
+    
+        <p style="font-family:courier;">However, Kobe did not start his true Laker Legacy until 2000, when he won his first NBA title. That was only the start though. The Lakers would go on to 3-peat by winning the NBA Championship in 2000, 2001, 2002. After a long stretch, the Lakers, led by Bryant, returned to win the NBA title again in 2009 and 2010. Having <em>five NBA Championships</em> made Kobe a legend in the Laker record books. During his tenure, he also took America to the top by helping win two Olympic gold medals playing for team USA. As Kobe Bryant said, <q>I focus on one thing and one thing only-that's trying to win as many championships as I can.</q></p>
+    
+    <h2><i>The Black Mamba</i></h2>
+        
+      
+        <p>
+        
+            <img src="kobe.jpg" alt="Kobe Bryant" height="300" width="450">
+            
+            
+        </p>
+            
+    
+    
+    <p style="font-family:courier;">Kobe Bryant is one of the greatest players to ever play in the NBA, and his numbers prove it. Below are just some of his great career numbers.</p>
+    
+      <div>  <h3 style="text-align:center;color:purple">Kobe Bryant Career Statistics</h3>
+<table border=1>
+    <colgroup>
+    <col span="5"style="background-color:purple">
+    </colgroup>
+<tr>
+    <th>Games Played</th><th>Points Per Game</th><th>Field Goal %</th><th>3 Point Field Goal %</th>
+    <th>Free Throw %</th>
+</tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leg74376/index.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<tr>
+    <td>1,346</td><td>25.0</td><td>.447</td><td>.329</td><td>.837</td>
+</tr>
+        </table>
+        </div>
+    <p style="font-family:courier;">These numbers are just a small reflection of the great impact that Kobe Bryant had on the NBA during his 20 years. To see more of his stats just click <a href="http://www.espn.com/nba/player/stats/_/id/110/kobe-bryant"> <b>here.</b> </a></p>
+        
+        <p style="font-family:courier;">One of Kobe's most famous <a href="https://www.youtube.com/watch?v=FTx7xyAMZuU">games</a> came in 2006 against the Toronto Raptors when he scored a record breaking 81 points.</p>
+        
+        <p>Kobe Bryant won the following awards during his time with the Lakers:
+        <ul style="list-style-type:circle">
+        <li>NBA MVP</li>
+        <li>2 time NBA Finals MVP</li>
+        <li>18 time NBA All-Star</li>
+        <li>4 time NBA All-Star Game MVP</li>
+        <li>11 time All-NBA First Team</li>
+        <li>9 time NBA All-Defensive First Team</li>
+        <li>2 time NBA Scoring Champion</li>
+            <li>Naismith Prep Player of the Year</li>
+        
+    
+        </ul>
+        
+        
+    </body>
+    </HTML>
